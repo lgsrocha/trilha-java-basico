@@ -19,5 +19,6 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
+## Solução
 
-
+![diagramaUML](https://github.com/lgsrocha/trilha-java-basico/assets/106771115/2553a5c3-1b67-4968-b877-323a7d5a11e1)
